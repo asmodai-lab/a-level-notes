@@ -65,7 +65,7 @@
 
 # Liberation Theology
 -  [[Essay plans/Philosophy Essay Plans/Kingdom of God essay plan\|"Liberation theology misunderstands the Kingdom of God."]]
-- [[Excalidraw/Philosophy/Should Christianity engage with atheist ideologies\|whether or not Christian theology should engage with atheist secular ideologies]]
+- [[Excalidraw/Philosophy/Should Christianity engage with atheist ideologies.excalidraw\|whether or not Christian theology should engage with atheist secular ideologies]]
 - [[Excalidraw/Philosophy/Does Christianity tackle social issues better than Marxism.excalidraw\|Does Christianity tackle social issues better than Marxism.excalidraw]]
 - [[Excalidraw/Philosophy/Has christian theology engaged in Marxist theology enough.excalidraw\|Whether or not liberation theology has engaged with Marxism fully enough]]
 - Whether or not it is right for Christians to prioritise one group over another
