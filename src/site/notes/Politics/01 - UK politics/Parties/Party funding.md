@@ -1,9 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/politics/01-uk-politics/parties/party-funding/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["lessonminor"],"permalink":"/politics/01-uk-politics/parties/party-funding/","dgPassFrontmatter":true}
 ---
 
-#lessonmajor 
-# How do parties fund election and campaign expenses?
+- [[#How do parties fund election and campaign expenses?|How do parties fund election and campaign expenses?]]
+	- [[#How do parties fund election and campaign expenses?#2021-2022 short money allocation|2021-2022 short money allocation]]
+		- [[#2021-2022 short money allocation#Short money 2025/26|Short money 2025/26]]
+	- [[#How do parties fund election and campaign expenses?#Donations to political parties during the 6 weeks of the 2019 general election|Donations to political parties during the 6 weeks of the 2019 general election]]
+- [[#Conclusion and debate|Conclusion and debate]]
+
+## How do parties fund election and campaign expenses?
 
 - in the UK, parties rely a lot on private funding
 	- this is very controversial
@@ -17,25 +22,25 @@ These<span style="color:rgb(255, 0, 0)"> don’t</span> cover campaign and elect
 > [!info] 
 > In 2019, despite the Brexit Party spending £4,150,000 (13.5% of total spending), it won no seats. The Scottish National Party received £24,929 in donations (0.1% of total spending) and won 48 seats. This suggests that the disproportionate financial influence between political parties has little impact in terms of electoral success.
 
-## 2021-2022 short money allocation
+### 2021-2022 short money allocation
 
 | Party  | Short money |
 | ------ | ----------- |
 | Labour | £6,602,347  |
 | SNP    | £1,117,489  |
 | DUP    | £195,870    |
-### Short money 2025/26
+#### Short money 2025/26
 
 ![Pasted image 20251107100239.png](/img/user/Images/Pasted%20image%2020251107100239.png)
 
 
-## Donations to political parties during the 6 weeks of the 2019 general election
+### Donations to political parties during the 6 weeks of the 2019 general election
 
 ![Donations in 2019.png](/img/user/Images/Donations%20in%202019.png)
 
 
 
-# Conclusion and debate
+## Conclusion and debate
 
 
 > [!tip] A* tip
