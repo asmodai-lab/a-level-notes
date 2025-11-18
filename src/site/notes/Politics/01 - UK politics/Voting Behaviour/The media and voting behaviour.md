@@ -2,8 +2,20 @@
 {"dg-publish":true,"permalink":"/politics/01-uk-politics/voting-behaviour/the-media-and-voting-behaviour/","dgPassFrontmatter":true}
 ---
 
-```table-of-contents
-```
+- [[#Introduction|Introduction]]
+	- [[#Introduction#Dominant Ideology Theory|Dominant Ideology Theory]]
+	- [[#Introduction#Political leaning of mainstream newspapers|Political leaning of mainstream newspapers]]
+- [[#The decline of print media|The decline of print media]]
+	- [[#The decline of print media#Online presence of newspapers|Online presence of newspapers]]
+- [[#Assessment of the impact of print media|Assessment of the impact of print media]]
+- [[#Broadcast TV|Broadcast TV]]
+	- [[#Broadcast TV#The rise of 24-hour news channels|The rise of 24-hour news channels]]
+	- [[#Broadcast TV#Who watches TV?|Who watches TV?]]
+	- [[#Broadcast TV#The rise of opinion news|The rise of opinion news]]
+- [[#Changing preferences|Changing preferences]]
+	- [[#Changing preferences#Misinformation|Misinformation]]
+- [[#Statistics|Statistics]]
+
 
 # The media
 ## Introduction
