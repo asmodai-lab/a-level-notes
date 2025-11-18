@@ -1,17 +1,27 @@
 ---
-{"dg-publish":true,"permalink":"/politics/01-uk-politics/parties/the-conservatives/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["lessonmajor"],"permalink":"/politics/01-uk-politics/parties/the-conservatives/","dgPassFrontmatter":true}
 ---
 
-#lessonmajor 
+- [[#History of conservative ideas|History of conservative ideas]]
+	- [[#History of conservative ideas#Traditional conservatism|Traditional conservatism]]
+	- [[#History of conservative ideas#One-nation conservatism|One-nation conservatism]]
+	- [[#History of conservative ideas#The new right|The new right]]
+- [[#Modern Conservative policy|Modern Conservative policy]]
+	- [[#Modern Conservative policy#The economy (one-nation/Thatcherite)|The economy (one-nation/Thatcherite)]]
+	- [[#Modern Conservative policy#Welfare (one-nation/Thatcherite)|Welfare (one-nation/Thatcherite)]]
+	- [[#Modern Conservative policy#Law and order (Thatcherite)|Law and order (Thatcherite)]]
+	- [[#Modern Conservative policy#Foreign policy (Thatcherite)|Foreign policy (Thatcherite)]]
+- [[#Kemi Badenoch|Kemi Badenoch]]
 
-# History of conservative ideas
 
-## Traditional conservatism
+## History of conservative ideas
+
+### Traditional conservatism
 
 > this emerged in the 1600's. It's based around the idea of wanting **stability** above all else. 
 > 	This means no violence, stable economy, and avoiding a revolution by appeasing the peasants (lol)- A.K.A keep things the same at all times. 
 
-## One-nation conservatism
+### One-nation conservatism
 
 >Founded by <span style="color:rgb(0, 176, 240)">Benjamin Disraeli.</span>
 >	He thought that conservatism must <span style="color:rgb(255, 192, 0)">unite</span> the nation in reverence for<span style="color:rgb(255, 192, 0)"> traditions </span>and<span style="color:rgb(255, 192, 0)"> institutions</span> that made Britain great.
@@ -22,7 +32,7 @@
 >	PMs include Stanley Baldwin,<span style="color:rgb(0, 176, 240)"> Harold Macmillan</span>, and<span style="color:rgb(0, 176, 240)"> Edward Heath</span> (1970-74)
 
 
-## The new right
+### The new right
 
 > by the 1970s, the effectiveness of<span style="color:rgb(255, 192, 0)"> one-nation conservatism</span> was undermined by large-scale industrial unrest. <span style="color:rgb(255, 192, 0)">Trade unions</span> were increasingly <span style="color:rgb(255, 192, 0)">demanding higher wages</span>, <span style="color:rgb(255, 192, 0)">challenging</span> the principle <span style="color:rgb(255, 192, 0)">that a Conservative government</span> could effectively<span style="color:rgb(255, 192, 0)"> unite </span>all sections of <span style="color:rgb(255, 192, 0)">society.</span>
 
@@ -51,9 +61,9 @@ The <span style="color:rgb(255, 0, 0)">new right</span> is a combination of<span
 > So although Truss may have come into office laying claim to Thatcher’s legacy, her policies had a distinctly Heath-ite flavour. Rishi Sunak's balancing of the budget was much truer to Thatcher's legacy.
 
 
-# Modern Conservative policy
+## Modern Conservative policy
 
-## The economy (one-nation/Thatcherite)
+### The economy (one-nation/Thatcherite)
 
 The Tories tend to flip-flop between one-nation and Thatcherite on the economy: even within the same government. 
 
@@ -64,7 +74,7 @@ The Tories tend to flip-flop between one-nation and Thatcherite on the economy: 
 -<span style="color:rgb(0, 176, 240)"> Truss</span>' government was... a fucking mess
 - <span style="color:rgb(0, 176, 240)">Sunak's</span> government responded to the recession with higher taxes and<span style="color:rgb(181, 97, 245)"> dramatic cuts in public spending</span>- a very<span style="color:rgb(181, 97, 245)"> Thatcherite </span>thing.
 
-## Welfare (one-nation/Thatcherite)
+### Welfare (one-nation/Thatcherite)
 
 - When the <span style="color:rgb(181, 97, 245)">minimum wage</span> was introduced by Blair, <span style="color:rgb(181, 97, 245)">Tories</span> claimed it was<span style="color:rgb(181, 97, 245)"> unacceptable.</span>
 - In Cameron's government, Chancellor Osborne introduced a <span style="color:rgb(255, 192, 0)">'living wage'</span> to provide<span style="color:rgb(255, 192, 0)"> extra support</span> for the least well paid
@@ -73,13 +83,13 @@ The Tories tend to flip-flop between one-nation and Thatcherite on the economy: 
 - Cameron, Truss, and Sunak all said that they were <span style="color:rgb(255, 192, 0)">committed to supporting the NHS.</span>
 	- However, the Universal Credit system, which is based on<span style="color:rgb(181, 97, 245)"> more you earn= less you get in benefits</span> suggests <span style="color:rgb(181, 97, 245)">Thatcherism.</span>
 
-## Law and order (Thatcherite)
+### Law and order (Thatcherite)
 
 - May passed the <span style="color:rgb(181, 97, 245)">'Investigatory Powers Act' (2016)</span> giving the government enhanced <span style="color:rgb(181, 97, 245)">powers</span> of <span style="color:rgb(181, 97, 245)">surveillance.</span>
 - Johnson passed the <span style="color:rgb(181, 97, 245)">'Police, Crime, Sentencing and Courts Act'</span> which<span style="color:rgb(181, 97, 245)"> increased police powers </span>over<span style="color:rgb(181, 97, 245)"> public protests.</span>
 	- The home secretaries- Priti Patel and Suella Braverman, were both<span style="color:rgb(181, 97, 245)"> critics of liberalism..</span>
 
-## Foreign policy (Thatcherite)
+### Foreign policy (Thatcherite)
 
 - Johnson negotiated<span style="color:rgb(181, 97, 245)"> Brexit.</span>
 	- he also announced a <span style="color:rgb(181, 97, 245)">£16.5 billion increase to defence spending</span>, the biggest boost since the end of the Cold war
