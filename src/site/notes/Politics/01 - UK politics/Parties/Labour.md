@@ -1,11 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/politics/01-uk-politics/parties/labour/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["lessonmajor"],"permalink":"/politics/01-uk-politics/parties/labour/","dgPassFrontmatter":true}
 ---
 
-#lessonmajor #unfinished 
 
-```table-of-contents
-```
+
+- [[#Old Labour|Old Labour]]
+	- [[#Old Labour#The first Labour government|The first Labour government]]
+	- [[#Old Labour#The Wilson Ministry|The Wilson Ministry]]
+- [[#The third way|The third way]]
+
 # History of Labour policy
 
 ## Old Labour
@@ -45,7 +48,7 @@ The first Labour majority government was run by Clement Atlee from 1945-51.
 # New Labour
 
 > In the 1979 general election, James Callaghan was defeated by the Conservative Party led by Margaret Thatcher. Following the election of Michael Foot as Labour leader in 1980, the party moved decisively to the left. In the 1983 general election Labour’s manifesto committed the party to further nationalisation, increased taxation of the wealthier in society, withdrawal from the European Economic Community and unilateral nuclear disarmament. One Labour MP, Gerald Kaufman, famously referred to the manifesto as ‘the longest suicide note in history’ and Labour’s share of the vote collapsed from 36.9% in 1979 to 27.6% in the 1983 general election, handing Thatcher a landslide victory.
->  The scale of the 1983 general election defeat shocked Labour into abandoning its most socialist policies and, under the leadership of Neil Kinnock (1983–92) and John Smith (1992–94), Labour moved towards the centre.
+> - The scale of the 1983 general election defeat shocked Labour into abandoning its most socialist policies and, under the leadership of Neil Kinnock (1983–92) and John Smith (1992–94), Labour moved towards the centre.
 
 Then TONY FUCKING BLAIR WAS ELECTED. 
 
