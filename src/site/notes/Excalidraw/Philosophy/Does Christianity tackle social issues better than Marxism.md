@@ -76,7 +76,3 @@ Conclusion
 { #3c6kOOHM}
 
 
-[[Philosophy/03 DCT/02 Liberation theology/Liberation theology\|Liberation theology]]
-{ #LhkNHn7y}
-
-
