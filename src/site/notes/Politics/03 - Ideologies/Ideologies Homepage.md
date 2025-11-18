@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/03-ideologies/ideologies-homepage/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/politics/03-ideologies/ideologies-homepage/","tags":["homepage"],"updated":"2025-11-18T20:03:58.695+00:00"}
 ---
 
 

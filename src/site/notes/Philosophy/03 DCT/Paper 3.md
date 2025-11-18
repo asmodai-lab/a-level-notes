@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["homepage"],"permalink":"/philosophy/03-dct/paper-3/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/philosophy/03-dct/paper-3/","tags":["homepage"],"updated":"2025-11-18T09:32:16.294+00:00"}
 ---
 
 [[Philosophy/03 DCT/01 Gender and Society/Gender and society home\|Gender and society home]]

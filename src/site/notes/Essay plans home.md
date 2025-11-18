@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"tags":["homepage"],"permalink":"/essay-plans-home/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/essay-plans-home/","tags":["homepage"],"updated":"2025-11-18T22:45:36.730+00:00"}
 ---
 
 
 
-[[Philosophy/04 Essays Home/01 Paper 1/Philosophy of religion\|Philosophy of religion]]
+[[Philosophy/04 Essays Home/Philosophy of religion\|Philosophy of religion]]
 
-[[Philosophy/04 Essays Home/02 Paper 2/Ethics essay questions\|Ethics]]
+[[Philosophy/04 Essays Home/Ethics essay questions\|Ethics]]
 
-[[Philosophy/04 Essays Home/03 Paper 3/Development of Christian thought\|Development of Christian thought]]
+[[Philosophy/04 Essays Home/Development of Christian thought essay questions\|Development of Christian thought essay questions]]
 
-[[Philosophy/04 Essays Home/Reflections\|Reflections]] 
+[[Essay plans/Philosophy Essay Plans/Reflections\|Reflections]] 
 
 [[Politics/Politics essay questions\|Politics essay questions]]
 

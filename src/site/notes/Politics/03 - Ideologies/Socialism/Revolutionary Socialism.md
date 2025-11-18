@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/03-ideologies/socialism/revolutionary-socialism/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/politics/03-ideologies/socialism/revolutionary-socialism/","updated":"2025-11-18T16:51:29.458+00:00"}
 ---
 
 #lessonmajor 

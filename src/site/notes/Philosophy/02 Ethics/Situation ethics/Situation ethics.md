@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/02-ethics/situation-ethics/situation-ethics/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/philosophy/02-ethics/situation-ethics/situation-ethics/","updated":"2025-11-18T09:30:50.140+00:00"}
 ---
 
 #homepage 

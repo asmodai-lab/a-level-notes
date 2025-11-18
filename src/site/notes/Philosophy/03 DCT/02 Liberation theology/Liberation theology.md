@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"tags":["homepage"],"permalink":"/philosophy/03-dct/02-liberation-theology/liberation-theology/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/philosophy/03-dct/02-liberation-theology/liberation-theology/","tags":["homepage"],"updated":"2025-11-18T10:42:36.703+00:00"}
 ---
 
 
 [[Philosophy/03 DCT/02 Liberation theology/Liberation philosophers\|Liberation philosophers]]
 
-[[Philosophy/03 DCT/02 Liberation theology/Liberation and Marx- speech\|Liberation and Marx- speech]]
+[[Essay plans/Philosophy Essay Plans/Liberation and Marx- speech\|Liberation and Marx- speech]]
 
 [[Philosophy/03 DCT/02 Liberation theology/Kingdom Theology\|Kingdom Theology]]
 

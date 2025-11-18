@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["lessonmajor","unfinished"],"permalink":"/politics/01-uk-politics/democracy/pressure-groups-lobbyists-and-think-tanks/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/politics/01-uk-politics/democracy/pressure-groups-lobbyists-and-think-tanks/","tags":["lessonmajor","unfinished"],"updated":"2025-11-18T16:38:45.844+00:00"}
 ---
 
 

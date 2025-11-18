@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/02-ethics/paper-2/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/philosophy/02-ethics/paper-2/","updated":"2025-11-18T13:16:21.783+00:00"}
 ---
 
 [[Philosophy/02 Ethics/Situation ethics/Situation ethics\|Situation ethics]]
@@ -10,7 +10,7 @@
 
 [[Philosophy/02 Ethics/Sexual Ethics/Sex ethics\|Sex ethics]]
 
-[[Philosophy/04 Essays Home/02 Paper 2/Ethics essay questions\|Ethics essay questions]]
+[[Philosophy/04 Essays Home/Ethics essay questions\|Ethics essay questions]]
 
 [[Philosophy/02 Ethics/Ethics questions\|Ethics questions]]
 

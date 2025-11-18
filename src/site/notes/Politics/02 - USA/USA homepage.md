@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/politics/02-usa/usa-homepage/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/politics/02-usa/usa-homepage/","tags":["homepage"],"updated":"2025-11-18T23:10:35.677+00:00"}
 ---
 
-#homepage 
+
 
 
 [[Politics/02 - USA/The supreme court/The Supreme Court\|The Supreme Court]]

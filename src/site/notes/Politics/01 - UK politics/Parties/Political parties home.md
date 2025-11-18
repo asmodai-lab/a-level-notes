@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/01-uk-politics/parties/political-parties-home/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/politics/01-uk-politics/parties/political-parties-home/","updated":"2025-11-18T10:29:55.332+00:00"}
 ---
 
  #homepage 

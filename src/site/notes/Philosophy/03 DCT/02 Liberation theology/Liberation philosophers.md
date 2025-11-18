@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/03-dct/02-liberation-theology/liberation-philosophers/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/philosophy/03-dct/02-liberation-theology/liberation-philosophers/","updated":"2025-11-18T09:33:02.216+00:00"}
 ---
 
 #lessonmajor 
@@ -7,7 +7,7 @@
 ```table-of-contents
 ```
 
-[[Philosophy/03 DCT/02 Liberation theology/Liberation and Marx- speech\|Does liberation theology compromise christian faith by aligning too closely with Marxism?]]
+[[Essay plans/Philosophy Essay Plans/Liberation and Marx- speech\|Does liberation theology compromise christian faith by aligning too closely with Marxism?]]
 
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2025-11-18T16:23:01.258+00:00"}
 ---
 
 # Resources

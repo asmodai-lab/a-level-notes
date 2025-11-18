@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/02-usa/democracy-and-participation/presidential-process/electoral-college/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/politics/02-usa/democracy-and-participation/presidential-process/electoral-college/","updated":"2025-11-18T10:35:38.615+00:00"}
 ---
 
 #lessonmajor 

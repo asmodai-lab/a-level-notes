@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/01-uk-politics/voting-behaviour/the-media-and-voting-behaviour/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/politics/01-uk-politics/voting-behaviour/the-media-and-voting-behaviour/","updated":"2025-11-18T16:34:17.851+00:00"}
 ---
 
 - [[#Introduction|Introduction]]
