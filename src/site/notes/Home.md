@@ -29,4 +29,10 @@
 [[Essay plans home\|Essay plans home]]
 
 
+# FAQ
 
+How do I navigate canvases?
+	Use the middle mouse button to move around, and Ctrl + Shift to zoom — or use finger gestures on the mousepad.
+
+How is this organised?
+	This is organised into subject, then topic, then lesson. To find essay plans, go through the essay plans home page.

@@ -97,7 +97,7 @@ The success or failure of political party?
 6. Evaluate the extent to which the Senate in more powerful and prestigious than the House.  
 7. Evaluate the extent to which Congress is an effective legislative body
 8. Evaluate the extent to which Congress is a representative institution
-9. [[Politics/Significance of parties in congress\|Evaluate the extent to which political parties play an important role in Congress]]
+9. [[Politics/02 - USA/Congress/Significance of parties in congress\|Evaluate the extent to which political parties play an important role in Congress]]
 10. Evaluate the extent to which the real work of Congress occurs in committees rather than in the chambers
 11. Evaluate the extent to which Congress can check the power of the executive branch 
 12. Evaluate the view that gridlock is an inevitable consequence of the US system of government 
