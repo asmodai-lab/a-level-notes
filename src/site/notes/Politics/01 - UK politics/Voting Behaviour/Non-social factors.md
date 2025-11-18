@@ -1,10 +1,27 @@
 ---
-{"dg-publish":true,"permalink":"/politics/01-uk-politics/voting-behaviour/non-social-factors/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["lessonmajor"],"permalink":"/politics/01-uk-politics/voting-behaviour/non-social-factors/","dgPassFrontmatter":true}
 ---
 
-#lessonmajor 
-```table-of-contents
-```
+- [[#Campaigning|Campaigning]]
+- [[#Rational choice model|Rational choice model]]
+	- [[#Rational choice model#Valance Issues|Valance Issues]]
+	- [[#Rational choice model#Salient issues|Salient issues]]
+	- [[#Rational choice model#Track record|Track record]]
+		- [[#Track record#Leader and party image|Leader and party image]]
+	- [[#Rational choice model#Manifesto|Manifesto]]
+- [[#Voting Context model|Voting Context model]]
+	- [[#Voting Context model#Tactical voting|Tactical voting]]
+		- [[#Tactical voting#Protest voting|Protest voting]]
+	- [[#Voting Context model#By-elections|By-elections]]
+	- [[#Voting Context model#Opinion polls|Opinion polls]]
+		- [[#Opinion polls#Bandwagon effect|Bandwagon effect]]
+		- [[#Opinion polls#Boomerang effect|Boomerang effect]]
+- [[#Opinion Polls|Opinion Polls]]
+	- [[#Opinion Polls#Why are Opinion polls conducted?|Why are Opinion polls conducted?]]
+		- [[#Why are Opinion polls conducted?#Types of opinion polls|Types of opinion polls]]
+	- [[#Opinion Polls#Do opinion polls affect voting behaviour?|Do opinion polls affect voting behaviour?]]
+		- [[#Do opinion polls affect voting behaviour?#Polling data from 2017-2025|Polling data from 2017-2025]]
+
 
 [[Politics/01 - UK politics/Voting Behaviour/The media and voting behaviour\|The media and voting behaviour]]
 # Other non-social factors
