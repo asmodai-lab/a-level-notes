@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/philosophy/01-philosophy/nature-and-attributes-of-god/omnipotence/"}
 ---
 
-#lessonmajor [[Omnipotence LoA.canvas|Omnipotence]]- canvas
+= #lessonmajor [[Omnipotence LoA.canvas|Omnipotence]] - canvas
 
 
 ##### What can God not do?
@@ -52,5 +52,4 @@ God is not a think like a human being but God is a thing in the same sense that 
 
 
 
-[^1]: what the freak
-	
+![Omnipotence summary.png](/img/user/Images/Omnipotence%20summary.png)
