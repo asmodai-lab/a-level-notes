@@ -2,7 +2,7 @@
 {"dg-publish":true,"tags":["lessonmajor","unfinished"],"permalink":"/politics/01-uk-politics/democracy/pressure-groups-lobbyists-and-think-tanks/","dgPassFrontmatter":true}
 ---
 
-[[Politics/01 - UK politics/Democracy/Democracy\|Democracy]] 
+
 
 **The spec asks us to know:**
  - How different pressure groups exert influence and how their methods and influence vary in contemporary politics.
