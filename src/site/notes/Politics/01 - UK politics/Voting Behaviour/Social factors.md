@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/01-uk-politics/voting-behaviour/social-factors/","tags":["lessonmajor"],"updated":"2025-11-18T23:28:03.949+00:00"}
+{"dg-publish":true,"permalink":"/politics/01-uk-politics/voting-behaviour/social-factors/","tags":["lessonmajor"],"updated":"2025-11-18T23:36:37.829+00:00"}
 ---
 
 ## Class
@@ -28,8 +28,4 @@ Nowadays, these assumptions aren't really correct for multiple reasons.
 | Class polarisation         |                                                                                                                    |                                                                                                                                                                                               |                                                                                                                                                                                                                    |
 | Working-class conservatism |                                                                                                                    |                                                                                                                                                                                               |                                                                                                                                                                                                                    |
 | Embourgeoisement           |                                                                                                                    |                                                                                                                                                                                               |                                                                                                                                                                                                                    |
-
-
-
-
-![[Class voting UK 2024.avif]]
+![Class 2024 GE.png](/img/user/Images/Class%202024%20GE.png)
