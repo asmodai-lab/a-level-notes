@@ -11,7 +11,7 @@
 
 [[Philosophy/03 DCT/02 Liberation theology/General notes\|General notes]]
 
-[[Excalidraw/Philosophy/Does Christianity tackle social issues better than Marxism\|Does Christianity tackle social issues better than Marxism]]
+[[Excalidraw/Philosophy/Does Christianity tackle social issues better than Marxism.excalidraw\|Does Christianity tackle social issues better than Marxism.excalidraw]]
 
 
 
