@@ -2,6 +2,12 @@
 {"dg-home":true,"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
+# Resources
+
+[Politics spec ](https://qualifications.pearson.com/content/dam/pdf/A%20Level/Politics/2017/Specification%20and%20sample%20assessments/A-level-Politics-Specification.pdf)
+
+[Philosophy spec](https://www.ocr.org.uk/Images/242913-specification-accredited-a-level-gce-religious-studies-h573.pdf)
+
 # Politics
 
 [[Politics/01 - UK politics/UK politics home\|UK politics home]]
@@ -31,16 +37,16 @@
 
 # FAQ
 What are excalidrawings?
-	They are inserted PDFs which I use to essay plan in a more organic way.
+> They are inserted PDFs which I use to essay plan in a more organic way.
 
 How do I navigate excalidrawings?
-	Use the middle mouse button to move around, and Ctrl + Shift to zoom — or use finger gestures on the mousepad.
+> Use the middle mouse button to move around, and Ctrl + Shift to zoom — or use finger gestures on the mousepad.
 
 How is this organised?
-	This is organised into subject, then topic, then lesson. To find essay plans, go through the essay plans home page, which is sorted by paper for philosophy, and for politics is an unsorted list of questions with a table of contents. 
+> This is organised into subject, then topic, then lesson. To find essay plans, go through the essay plans home page, which is sorted by paper for philosophy, and for politics is an unsorted list of questions with a table of contents. 
 
 What are you using to do this?
-	I use Obsidian to make notes — it's a free note-taking app. To make the website, I used the Digital Garden plugin. All of this was entirely free and relatively easy.
+> I use Obsidian to make notes — it's a free note-taking app. To make the website, I used the Digital Garden plugin. All of this was entirely free and relatively easy.
 
 Why is {insert topic} not here?
-	Because I haven't made the notes for it yet. This was started halfway through my A-Levels, I still haven't finished transferring my notes yet. 
+> Because I haven't made the notes for it yet. This was started halfway through my A-Levels, I still haven't finished transferring my notes yet. 
