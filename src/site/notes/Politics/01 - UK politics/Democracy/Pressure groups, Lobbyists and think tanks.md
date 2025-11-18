@@ -1,13 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/politics/01-uk-politics/democracy/pressure-groups-lobbyists-and-think-tanks/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["lessonmajor","unfinished"],"permalink":"/politics/01-uk-politics/democracy/pressure-groups-lobbyists-and-think-tanks/","dgPassFrontmatter":true}
 ---
 
 [[Politics/01 - UK politics/Democracy/Democracy\|Democracy]] 
-#lessonmajor #unfinished 
+
+**The spec asks us to know:**
+ - How different pressure groups exert influence and how their methods and influence vary in contemporary politics.
+- Case studies of two different pressure groups, highlighting examples of how their methods and influence vary.
+- Other collective organisations and groups including think tanks, lobbyists and corporations, and their influence on Government and Parliament
 
 A key part of UK democracy is pressure groups. The definition of pressure groups is quite wide- basically any organized group which is **not** the government working to influence government policy counts- which does lowkey make the opposition political parties count. But don't include that in an essay, it's a bit cheeky. 
 
-##### Types of pressure groups
+# Types of pressure groups
 
 
 |          | Promotional                         | Sectional                  |
@@ -15,7 +19,7 @@ A key part of UK democracy is pressure groups. The definition of pressure groups
 | Insider  | Confederation of British Industry   | Trade unions (with Labour) |
 | Outsider | Just Stop Oil, Extinction rebellion | National education Union   |
 
-##### Lobbying
+## Lobbying
 
 Lobbying Act (2014)-
 - created a register of lobbyists. Anyone who meets the statutory definition of lobbying must sign register and account for their lobbying activities

@@ -2,6 +2,8 @@
 {"dg-home":true,"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
+# Politics
+
 [[Politics/01 - UK politics/UK politics home\|UK politics home]]
 
 [[Politics/01 - UK politics/UK government\|UK government]]
@@ -21,7 +23,10 @@
 
 [[Philosophy/03 DCT/Paper 3\|Paper 3]] — Development of Christian Thought
 
-[[Philosophy/04 Essays Home/Essay plans home\|Essay plans home]]
+
+# Essay plans
+
+[[Essay plans home\|Essay plans home]]
 
 
 
