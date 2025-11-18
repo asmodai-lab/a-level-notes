@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/01-philosophy/nature-and-attributes-of-god/omnipotence/"}
+{"dg-publish":true,"permalink":"/philosophy/01-philosophy/nature-and-attributes-of-god/omnipotence/","dgPassFrontmatter":true}
 ---
 
 = #lessonmajor [[Omnipotence LoA.canvas|Omnipotence]] - canvas

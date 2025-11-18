@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/01-philosophy/paper-1/"}
+{"dg-publish":true,"permalink":"/philosophy/01-philosophy/paper-1/","dgPassFrontmatter":true}
 ---
 
 

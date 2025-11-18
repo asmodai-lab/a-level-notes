@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/04-essays-home/03-paper-3/development-of-christian-thought/"}
+{"dg-publish":true,"permalink":"/philosophy/04-essays-home/03-paper-3/development-of-christian-thought/","dgPassFrontmatter":true}
 ---
 
 ```table-of-contents

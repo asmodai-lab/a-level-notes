@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/04-essays-home/essay-plans-home/"}
+{"dg-publish":true,"permalink":"/philosophy/04-essays-home/essay-plans-home/","dgPassFrontmatter":true}
 ---
 
 [[Philosophy/04 Essays Home/01 Paper 1/Philosophy of religion\|Philosophy of religion]]

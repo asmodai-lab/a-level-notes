@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/03-dct/02-liberation-theology/kingdom-theology/"}
+{"dg-publish":true,"permalink":"/philosophy/03-dct/02-liberation-theology/kingdom-theology/","dgPassFrontmatter":true}
 ---
 
 ```table-of-contents

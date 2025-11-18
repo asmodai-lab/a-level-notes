@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/04-essays-home/02-paper-2/ethics-essay-questions/"}
+{"dg-publish":true,"permalink":"/philosophy/04-essays-home/02-paper-2/ethics-essay-questions/","dgPassFrontmatter":true}
 ---
 
 #debates 

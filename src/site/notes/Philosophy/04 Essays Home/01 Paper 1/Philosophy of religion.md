@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/04-essays-home/01-paper-1/philosophy-of-religion/"}
+{"dg-publish":true,"permalink":"/philosophy/04-essays-home/01-paper-1/philosophy-of-religion/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/01-philosophy/nature-and-attributes-of-god/introduction/"}
+{"dg-publish":true,"permalink":"/philosophy/01-philosophy/nature-and-attributes-of-god/introduction/","dgPassFrontmatter":true}
 ---
 
 #intro

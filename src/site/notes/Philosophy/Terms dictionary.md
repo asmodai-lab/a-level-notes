@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/terms-dictionary/"}
+{"dg-publish":true,"permalink":"/philosophy/terms-dictionary/","dgPassFrontmatter":true}
 ---
 
 **Ontology-** 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/03-dct/02-liberation-theology/liberation-and-marx-speech/"}
+{"dg-publish":true,"permalink":"/philosophy/03-dct/02-liberation-theology/liberation-and-marx-speech/","dgPassFrontmatter":true}
 ---
 
 #homework #debates  

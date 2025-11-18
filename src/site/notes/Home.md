@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
+{"dg-home":true,"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 [[Politics/01 - UK politics/UK politics home\|UK politics home]]

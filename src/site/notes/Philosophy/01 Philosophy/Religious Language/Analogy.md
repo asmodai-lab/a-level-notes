@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/01-philosophy/religious-language/analogy/"}
+{"dg-publish":true,"permalink":"/philosophy/01-philosophy/religious-language/analogy/","dgPassFrontmatter":true}
 ---
 
 [[Analogy.canvas|Analogy]]

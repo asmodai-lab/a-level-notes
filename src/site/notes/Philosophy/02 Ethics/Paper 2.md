@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/02-ethics/paper-2/"}
+{"dg-publish":true,"permalink":"/philosophy/02-ethics/paper-2/","dgPassFrontmatter":true}
 ---
 
 [[Philosophy/02 Ethics/Situation ethics/Situation ethics\|Situation ethics]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/essay-plans/philosophy-essay-plans/is-nml-helpful-at-decision-making/"}
+{"dg-publish":true,"permalink":"/essay-plans/philosophy-essay-plans/is-nml-helpful-at-decision-making/","dgPassFrontmatter":true}
 ---
 
 #debates 

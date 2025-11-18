@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/essay-plans/philosophy-essay-plans/kingdom-of-god-essay-plan/"}
+{"dg-publish":true,"permalink":"/essay-plans/philosophy-essay-plans/kingdom-of-god-essay-plan/","dgPassFrontmatter":true}
 ---
 
 #unfinished #debates  
