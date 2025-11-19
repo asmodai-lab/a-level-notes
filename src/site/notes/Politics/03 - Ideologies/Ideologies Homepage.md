@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/03-ideologies/ideologies-homepage/","tags":["homepage"],"updated":"2025-11-18T20:03:58.695+00:00"}
+{"dg-publish":true,"permalink":"/politics/03-ideologies/ideologies-homepage/","tags":["homepage"],"updated":"2025-11-19T11:38:14.374+00:00"}
 ---
 
 
@@ -7,7 +7,9 @@
 
 [[Politics/03 - Ideologies/Socialism/Revolutionary Socialism\|Revolutionary Socialism]]
 
+# Liberalism
 
+[[Politics/03 - Ideologies/Liberalism/Liberalism\|Liberalism]]
 
 # Introduction
 #homepage 

@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/01-philosophy/paper-1/","updated":"2025-11-18T09:28:51.115+00:00"}
+{"dg-publish":true,"permalink":"/philosophy/01-philosophy/paper-1/","updated":"2025-11-19T12:39:05.091+00:00"}
 ---
 
+[[Philosophy/01 Philosophy/Mind-body-soul/Mind, body and soul\|Mind, body and soul]]
 
 [[Philosophy/01 Philosophy/Nature and attributes of God/Nature and attributes of God\|Nature and attributes of God]]
 

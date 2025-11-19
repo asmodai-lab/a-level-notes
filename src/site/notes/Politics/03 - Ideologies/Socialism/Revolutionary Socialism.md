@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/03-ideologies/socialism/revolutionary-socialism/","updated":"2025-11-18T16:51:29.458+00:00"}
+{"dg-publish":true,"permalink":"/politics/03-ideologies/socialism/revolutionary-socialism/","tags":["lessonmajor"],"updated":"2025-11-19T11:39:22.412+00:00"}
 ---
 
 #lessonmajor 
