@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/01-uk-politics/parties/party-funding/","tags":["lessonminor"],"updated":"2025-11-18T16:42:30.098+00:00"}
+{"dg-publish":true,"permalink":"/politics/01-uk-politics/parties/party-funding/","tags":["lessonminor"],"updated":"2025-11-19T10:05:06.204+00:00"}
 ---
 
 - [[#How do parties fund election and campaign expenses?|How do parties fund election and campaign expenses?]]
@@ -31,7 +31,7 @@ These<span style="color:rgb(255, 0, 0)"> don’t</span> cover campaign and elect
 | DUP    | £195,870    |
 #### Short money 2025/26
 
-![Pasted image 20251107100239.png](/img/user/Images/Pasted%20image%2020251107100239.png)
+![Short money 2024.png](/img/user/Images/Short%20money%202024.png)
 
 
 ### Donations to political parties during the 6 weeks of the 2019 general election

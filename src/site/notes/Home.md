@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2025-11-18T16:23:01.258+00:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2025-11-19T10:38:44.177+00:00"}
 ---
 
 # Resources
+[[Resources\|Resources]]
 
-[Politics spec ](https://qualifications.pearson.com/content/dam/pdf/A%20Level/Politics/2017/Specification%20and%20sample%20assessments/A-level-Politics-Specification.pdf)
-
-[Philosophy spec](https://www.ocr.org.uk/Images/242913-specification-accredited-a-level-gce-religious-studies-h573.pdf)
 
 # Politics
 
@@ -48,5 +46,11 @@ How is this organised?
 What are you using to do this?
 > I use Obsidian to make notes — it's a free note-taking app. To make the website, I used the Digital Garden plugin. All of this was entirely free and relatively easy.
 
+How do I do this?
+> Here is my [[Bear hunt/Basic obsidian tutorial\|Basic obsidian tutorial]]. Enjoy.
+
 Why is {insert topic} not here?
 > Because I haven't made the notes for it yet. This was started halfway through my A-Levels, I still haven't finished transferring my notes yet. 
+
+Your notes suck!
+>Your thoughts are very important to us. Please send an email to noreply@gov.uk and we will get back to you.

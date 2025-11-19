@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/01-uk-politics/voting-behaviour/non-social-factors/","tags":["lessonmajor"],"updated":"2025-11-18T16:37:40.577+00:00"}
+{"dg-publish":true,"permalink":"/politics/01-uk-politics/voting-behaviour/non-social-factors/","tags":["lessonmajor"],"updated":"2025-11-19T10:04:51.287+00:00"}
 ---
 
 - [[#Campaigning|Campaigning]]
@@ -104,4 +104,4 @@ Phenomenon where negative attacks on a candidate result in increased support for
 
 #### Polling data from 2017-2025
 
-![Pasted image 20251113094316.png](/img/user/Images/Pasted%20image%2020251113094316.png) 
+![UK party polling.png](/img/user/Images/UK%20party%20polling.png) 

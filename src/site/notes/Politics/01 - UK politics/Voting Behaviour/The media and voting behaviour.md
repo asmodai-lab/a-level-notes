@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/01-uk-politics/voting-behaviour/the-media-and-voting-behaviour/","updated":"2025-11-18T16:34:17.851+00:00"}
+{"dg-publish":true,"permalink":"/politics/01-uk-politics/voting-behaviour/the-media-and-voting-behaviour/","updated":"2025-11-18T23:36:22.438+00:00"}
 ---
 
 - [[#Introduction|Introduction]]
@@ -53,7 +53,7 @@ Most papers now have websites where they publish most of their stuff. Many focus
 - 2019 election — despite the decline, print media reinforced political divisions. The Sun's anti-Corbyn campaign solidified tory support.
 - 2024: not much impact on younger voters. However, the Daily Mail's endorsement of Tories may have swayed older voters. 
 
-![Pasted image 20251117092106.png](/img/user/Images/Pasted%20image%2020251117092106.png)
+![Newspaper circulation.png](/img/user/Images/Newspaper%20circulation.png)
 
 # Television
 
@@ -129,7 +129,7 @@ Additionally analysis revealed that 88% of the Conservative Party's Facebook adv
 
 Also, deepfakes. 
 
-![Pasted image 20251117094234.png](/img/user/Images/Pasted%20image%2020251117094234.png)
+![Social media usage numbers.png](/img/user/Images/Social%20media%20usage%20numbers.png)
 
 ## Statistics
 

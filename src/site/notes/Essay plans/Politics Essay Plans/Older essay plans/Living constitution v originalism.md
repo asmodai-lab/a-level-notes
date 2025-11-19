@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/essay-plans/politics-essay-plans/older-essay-plans/living-constitution-v-originalism/","updated":"2025-11-18T10:39:28.720+00:00"}
+{"dg-publish":true,"permalink":"/essay-plans/politics-essay-plans/older-essay-plans/living-constitution-v-originalism/","updated":"2025-11-19T10:04:35.772+00:00"}
 ---
 
 #debates 
 
 ---
-![Screenshot-2025-03-27-at-15.26.50 1.png](/img/user/Images/Screenshot-2025-03-27-at-15.26.50%201.png)
+![US Constitution perspectives.png](/img/user/Images/US%20Constitution%20perspectives.png)
 
 | living                                                                                                                            | originalism                                                                                                      |
 | --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
