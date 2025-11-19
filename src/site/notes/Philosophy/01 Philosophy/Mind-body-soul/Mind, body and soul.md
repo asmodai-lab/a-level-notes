@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/01-philosophy/mind-body-soul/mind-body-and-soul/","tags":["homepage"],"updated":"2025-11-19T13:22:01.997+00:00"}
+{"dg-publish":true,"permalink":"/philosophy/01-philosophy/mind-body-soul/mind-body-and-soul/","tags":["homepage"],"updated":"2025-11-19T14:08:34.760+00:00"}
 ---
 
 [[Philosophy/01 Philosophy/Mind-body-soul/Dualism\|Dualism]]
@@ -38,3 +38,4 @@ and 17
 - [Descartes and the mind-body-soul problem](https://www.laphamsquarterly.org/states-mind/ghost-and-princess)
 - [The rise and fall of the mind-body-soul problem](https://3quarksdaily.com/3quarksdaily/2025/03/the-rise-and-fall-of-the-mind-body-problem.html)
 - [Freud on consciousness](https://3quarksdaily.com/3quarksdaily/2023/02/where-is-my-mind-on-freud-and-neuropsychology.html)
+- [Christian perspective on the mind-body-soul problem](https://humanjourney.org.uk/articles/the-mind-body-problem/)
