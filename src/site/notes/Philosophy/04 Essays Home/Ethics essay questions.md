@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/04-essays-home/ethics-essay-questions/","tags":["questions"],"updated":"2025-11-18T22:43:01.013+00:00"}
+{"dg-publish":true,"permalink":"/philosophy/04-essays-home/ethics-essay-questions/","tags":["questions"],"noteIcon":"","updated":"2025-11-18T22:43:01.013+00:00"}
 ---
 
 #debates 

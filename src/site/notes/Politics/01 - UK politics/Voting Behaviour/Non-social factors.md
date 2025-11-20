@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/01-uk-politics/voting-behaviour/non-social-factors/","tags":["lessonmajor"],"updated":"2025-11-19T10:04:51.287+00:00"}
+{"dg-publish":true,"permalink":"/politics/01-uk-politics/voting-behaviour/non-social-factors/","tags":["lessonmajor"],"noteIcon":"","updated":"2025-11-19T10:04:51.287+00:00"}
 ---
 
 - [[#Campaigning|Campaigning]]

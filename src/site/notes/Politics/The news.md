@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/the-news/","tags":["resources"],"updated":"2025-11-19T11:48:05.795+00:00"}
+{"dg-publish":true,"permalink":"/politics/the-news/","tags":["resources"],"noteIcon":"","updated":"2025-11-19T11:48:05.795+00:00"}
 ---
 
 

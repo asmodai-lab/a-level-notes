@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/03-ideologies/liberalism/liberalism/","tags":["lessonmajor"],"updated":"2025-11-19T12:37:05.485+00:00"}
+{"dg-publish":true,"permalink":"/politics/03-ideologies/liberalism/liberalism/","tags":["lessonmajor"],"noteIcon":"","updated":"2025-11-19T12:37:05.485+00:00"}
 ---
 
 ## John Locke

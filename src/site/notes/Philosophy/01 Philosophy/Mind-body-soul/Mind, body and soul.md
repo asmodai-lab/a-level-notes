@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/01-philosophy/mind-body-soul/mind-body-and-soul/","tags":["homepage"],"updated":"2025-11-19T14:08:34.760+00:00"}
+{"dg-publish":true,"permalink":"/philosophy/01-philosophy/mind-body-soul/mind-body-and-soul/","tags":["homepage"],"noteIcon":"","updated":"2025-11-19T14:08:34.760+00:00"}
 ---
 
 [[Philosophy/01 Philosophy/Mind-body-soul/Dualism\|Dualism]]

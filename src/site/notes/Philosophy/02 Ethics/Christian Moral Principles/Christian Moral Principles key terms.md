@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/02-ethics/christian-moral-principles/christian-moral-principles-key-terms/","updated":"2025-11-18T10:28:23.332+00:00"}
+{"dg-publish":true,"permalink":"/philosophy/02-ethics/christian-moral-principles/christian-moral-principles-key-terms/","noteIcon":"","updated":"2025-11-18T10:28:23.332+00:00"}
 ---
 
 | Term               | Definition                                                                                                                                 |

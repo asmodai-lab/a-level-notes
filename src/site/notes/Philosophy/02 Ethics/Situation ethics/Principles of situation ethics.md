@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/02-ethics/situation-ethics/principles-of-situation-ethics/","updated":"2025-11-18T09:30:52.498+00:00"}
+{"dg-publish":true,"permalink":"/philosophy/02-ethics/situation-ethics/principles-of-situation-ethics/","noteIcon":"","updated":"2025-11-18T09:30:52.498+00:00"}
 ---
 
 #lessonmajor 

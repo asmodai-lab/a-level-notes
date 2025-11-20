@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/02-usa/democracy-and-participation/presidential-process/democracy-and-participation/","updated":"2025-11-18T10:35:35.208+00:00"}
+{"dg-publish":true,"permalink":"/politics/02-usa/democracy-and-participation/presidential-process/democracy-and-participation/","noteIcon":"","updated":"2025-11-18T10:35:35.208+00:00"}
 ---
 
 #homepage 

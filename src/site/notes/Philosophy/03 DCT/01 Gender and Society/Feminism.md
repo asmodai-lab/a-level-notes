@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/03-dct/01-gender-and-society/feminism/","updated":"2025-11-18T10:27:58.357+00:00"}
+{"dg-publish":true,"permalink":"/philosophy/03-dct/01-gender-and-society/feminism/","noteIcon":"","updated":"2025-11-18T10:27:58.357+00:00"}
 ---
 
 #lessonmajor 

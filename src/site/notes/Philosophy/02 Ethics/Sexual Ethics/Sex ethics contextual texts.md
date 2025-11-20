@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/02-ethics/sexual-ethics/sex-ethics-contextual-texts/","tags":["materials","lessonminor"],"updated":"2025-11-19T10:38:20.358+00:00"}
+{"dg-publish":true,"permalink":"/philosophy/02-ethics/sexual-ethics/sex-ethics-contextual-texts/","tags":["materials","lessonminor"],"noteIcon":"","updated":"2025-11-19T10:38:20.358+00:00"}
 ---
 
 - [[#Important texts to reference|Important texts to reference]]

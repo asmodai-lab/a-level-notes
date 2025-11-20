@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resources/","tags":["resources","homepage"],"updated":"2025-11-19T13:18:33.407+00:00"}
+{"dg-publish":true,"permalink":"/resources/","tags":["resources","homepage"],"noteIcon":"","updated":"2025-11-19T21:46:18.851+00:00"}
 ---
 
 # Politics resources
@@ -9,6 +9,8 @@
 
 # Philosophy resources
 [Philosophy spec](https://www.ocr.org.uk/Images/242913-specification-accredited-a-level-gce-religious-studies-h573.pdf)
+
+[The elements of morality](https://home.csulb.edu/~cwallis/382/readings/160/EM.pdf) by James Rachels (ever want to understand the whole of ethics? Read this!)
 
 ## Notes
 

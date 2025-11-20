@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/02-usa/usa-homepage/","tags":["homepage"],"updated":"2025-11-18T23:10:35.677+00:00"}
+{"dg-publish":true,"permalink":"/politics/02-usa/usa-homepage/","tags":["homepage"],"noteIcon":"","updated":"2025-11-18T23:10:35.677+00:00"}
 ---
 
 

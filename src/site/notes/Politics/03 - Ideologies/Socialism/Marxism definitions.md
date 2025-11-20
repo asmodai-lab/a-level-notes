@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/03-ideologies/socialism/marxism-definitions/","updated":"2025-11-18T16:51:31.423+00:00"}
+{"dg-publish":true,"permalink":"/politics/03-ideologies/socialism/marxism-definitions/","noteIcon":"","updated":"2025-11-18T16:51:31.423+00:00"}
 ---
 
 
