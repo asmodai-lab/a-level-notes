@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/02-ethics/sexual-ethics/sex-ethics/","tags":["homepage"],"noteIcon":"","updated":"2025-11-19T10:37:16.272+00:00"}
+{"dg-publish":true,"permalink":"/philosophy/02-ethics/sexual-ethics/sex-ethics/","tags":["homepage"],"noteIcon":"","updated":"2025-11-20T10:32:58.158+00:00"}
 ---
 
 ## Spec on sexual ethics
@@ -13,5 +13,9 @@ personal, or whether they should be subject to societal norms and legislation
 [[Philosophy/02 Ethics/Sexual Ethics/Sex ethics contextual texts\|Which philosophers do you look at for this?]]
 1. [[Philosophy/02 Ethics/Sexual Ethics/Sex ethics contextual texts\|Augustine]]
 2. [[Philosophy/02 Ethics/Sexual Ethics/Sex ethics contextual texts\|Kant]]
-3. [[Song of solomon.excalidraw.pdf|The song of Solomon]]
+3. [[Excalidraw/Song of solomon.excalidraw\|Song of solomon.excalidraw]]
 
+## Other materials
+
+[The right to sex](https://www.d-zona.cz/sites/default/files/Amia-Srinivasan-The-Right-to-Sex_-Feminism-in-the-Twenty-First-Century-2021-Bloomsbury-Publishing-libgen.li_.pdf) by Amia Srinivasan
+- A [PDF](https://andrewmbailey.com/money/readings/srinivasan.pdf) of the first ten pages

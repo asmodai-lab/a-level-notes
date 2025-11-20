@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics/03-ideologies/socialism/revolutionary-socialism/","tags":["lessonmajor"],"noteIcon":"","updated":"2025-11-20T08:43:37.076+00:00"}
+{"dg-publish":true,"permalink":"/politics/03-ideologies/socialism/revolutionary-socialism/","tags":["lessonmajor"],"noteIcon":"","updated":"2025-11-20T15:18:51.214+00:00"}
 ---
 
 #lessonmajor 
@@ -8,6 +8,8 @@
 ```table-of-contents
 ```
 # Socialism introduction
+
+[[Politics/03 - Ideologies/Socialism/Marxism definitions\|Marxism definitions]]
 
 
 > [!info]

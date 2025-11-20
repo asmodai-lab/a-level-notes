@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/politics/03-ideologies/ideologies-homepage/","tags":["homepage"],"noteIcon":"","updated":"2025-11-19T11:38:14.374+00:00"}
+{"dg-publish":true,"permalink":"/politics/03-ideologies/ideologies-homepage/","tags":["homepage"],"noteIcon":"","updated":"2025-11-20T15:16:16.677+00:00"}
 ---
 
 
 # Socialism
 
-[[Politics/03 - Ideologies/Socialism/Revolutionary Socialism\|Revolutionary Socialism]]
+[[Politics/03 - Ideologies/Socialism\|Socialism]]
 
 # Liberalism
 

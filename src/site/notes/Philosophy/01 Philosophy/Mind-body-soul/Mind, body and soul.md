@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/philosophy/01-philosophy/mind-body-soul/mind-body-and-soul/","tags":["homepage"],"noteIcon":"","updated":"2025-11-19T14:08:34.760+00:00"}
+{"dg-publish":true,"permalink":"/philosophy/01-philosophy/mind-body-soul/mind-body-and-soul/","tags":["homepage"],"noteIcon":"","updated":"2025-11-20T10:38:11.148+00:00"}
 ---
 
 [[Philosophy/01 Philosophy/Mind-body-soul/Dualism\|Dualism]]
@@ -25,12 +25,12 @@
 | materialism                                                              | the idea that the mind and consciousness can be fully explained by physical or material interactions                            |
 |                                                                          | the rejection of a soul as a spiritual substance                                                                                |
 
-## Extra reading
+## Extra reading from the spec
 
-- Blackmore, S. (2010) Consciousness; an introduction, Routledge, Chapters 1, 2
+- Blackmore, S. (2010) [Consciousness; an introduction](https://api.pageplace.de/preview/DT0400.9781003817970_A47280882/preview-9781003817970_A47280882.pdf), Routledge, Chapters 1, 2
 and 17
-• Ryle, G. (1949 – many editions available) The Concept of Mind, Chapter 1
-• Stanford Encyclopedia of Philosophy (2003 rev. 2009) Ancient Theories of the Soul http://plato.stanford.edu/entries/ancient-soul/
+• Ryle, G. (1949 – many editions available) [The Concept of Mind](https://antilogicalism.com/wp-content/uploads/2018/04/concept-of-mind.pdf), Chapter 1
+• Stanford Encyclopedia of Philosophy (2003 rev. 2009) [Ancient Theories of the Soul ](http://plato.stanford.edu/entries/ancient-soul/)
 - [mind-body-soul summary notes](https://whsat.sharepoint.com/:w:/r/sites/Section_27011/_layouts/15/Doc.aspx?sourcedoc=%7B74977479-C699-44F5-ABF6-A37D225E9BA3%7D&file=Philosophy-topic-3---Mind-Body-Soul.docx&action=default&mobileredirect=true)
 
 ### Fun articles
@@ -39,3 +39,6 @@ and 17
 - [The rise and fall of the mind-body-soul problem](https://3quarksdaily.com/3quarksdaily/2025/03/the-rise-and-fall-of-the-mind-body-problem.html)
 - [Freud on consciousness](https://3quarksdaily.com/3quarksdaily/2023/02/where-is-my-mind-on-freud-and-neuropsychology.html)
 - [Christian perspective on the mind-body-soul problem](https://humanjourney.org.uk/articles/the-mind-body-problem/)
+
+#### Full books
+- [magical thinking and dualism](https://andrewmbailey.com/MagicalThinking.pdf)
