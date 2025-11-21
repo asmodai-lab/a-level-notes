@@ -1,9 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"","updated":"2025-11-20T08:53:37.983+00:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"","updated":"2025-11-20T23:34:17.487+00:00"}
 ---
 
 # Resources
-[[Resources\|Resources]]
+[[Organisation/Resources\|Resources]]
+
+[[Organisation/Reviews\|Reviews]]
+
+[[Brain joggers\|I have an exam in 10 minutes and I need a QUICK summary — aka Brain Joggers]]
+
 
 # Politics
 
@@ -53,3 +58,5 @@ Why is {insert topic} not here?
 
 Your notes suck!
 >Your thoughts are very important to us. Please send an email to noreply@gov.uk and we will get back to you.
+
+---
